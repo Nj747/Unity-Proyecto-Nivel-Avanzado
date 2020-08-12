@@ -6,8 +6,10 @@ Para el desarrollo se utilizó Unity **_2018.2.18f1 standalone 64 bit._**
 
 > *[Link para jugarlo online](https://nj747.itch.io/anotherplatformgame)* :video_game:
 
-![Alt Text](https://github.com/Nj747/Unity-Proyecto-Nivel-Avanzado/Game.gif)
+## Imágenes del juego
 
+![Alt Text](https://github.com/Nj747/Unity-Proyecto-Nivel-Avanzado/blob/master/img1.png)
+![Alt Text](https://github.com/Nj747/Unity-Proyecto-Nivel-Avanzado/blob/master/img2.png)
 
 ## Contenido 
 * 1 niveles jugable. 
@@ -18,3 +20,5 @@ Para el desarrollo se utilizó Unity **_2018.2.18f1 standalone 64 bit._**
 * SFX y música por nivel descargados de *[Free Sounds]*.
 * Condiciones de victoria y derrota.
 * Managers
+
+
